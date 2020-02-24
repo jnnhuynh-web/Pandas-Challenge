@@ -1,4 +1,4 @@
-# Pandas-Challenge - Heroes of Pymol
+# Pandas Challenge - Heroes of Pymol
 This repository contains an analysis of the fantasy game, Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 The goal is to generate a report that breaks down the game's purchasing data into meaningful insights. The data was analyzed using Python and a Jupyter Notebook. The final report includes each of the following:
 
